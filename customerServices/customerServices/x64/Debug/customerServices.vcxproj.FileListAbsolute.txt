@@ -1,0 +1,5 @@
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Assignment\A7\customerServices\customerServices\x64\Debug\customerServices.vcxproj.AssemblyReference.cache
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Assignment\A7\customerServices\customerServices\x64\Debug\customerServices.services.resources
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Assignment\A7\customerServices\customerServices\x64\Debug\customerServices.vcxproj.GenerateResource.cache
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Assignment\A7\customerServices\customerServices\x64\Debug\customerServices.AddEditForm.resources
+C:\Users\MOTSHINA\Desktop\PGM2116 2026\Assignment\Assignment\A7\customerServices\customerServices\x64\Debug\customerServices.SearchCustomers.resources

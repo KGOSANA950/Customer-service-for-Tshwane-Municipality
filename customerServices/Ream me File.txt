@@ -1,0 +1,25 @@
+1.How to use The Municipality System
+*On you left site you will see the menu that has File,Edit,View,Help.
+*If you click the File it will open and you will find Open,Save,Exit.
+*Open is for opening the file and displaying the file.
+*Save it saves the to a csv file.
+*Exit it close the application.
+
+2.How the Edit work
+*On the Edit you will find the Add,delete,Update.
+*On the Add,if you click Add it will take you to a new page called AddEditForm which enter the details then you click Save.
+*On the Delete, if you click the item in the listBox and go to delete, you can be able to delete the details of the person.
+*On the Update, if you click the Update it will take you to the AddEditForm.But you must select the Person you want Edit there Details on the listBox then it will takeyou to the new form in which you can edit the deatils and click update to save and display on the listBox. 
+
+3.How to View the Municipality System
+*In the view you will find the Search and the sort.
+*When you click the search it will take you to the searchCustomers.
+-Then you have to search for the details that you want to search using the inputbox and change the radiobox to what you want to search for.
+-After click the Search button to search for the details that you want to search for.
+-you will also find the close button to close the searchCustomers.
+*You will also find the sort under the view.
+-you can sort by AccountNo and sort By CustomerName.
+-When you sort the data, it will sort the it in the service on the listbox.
+
+4.Help
+-The Help will tell you which version it is running and also CopyRight.  
